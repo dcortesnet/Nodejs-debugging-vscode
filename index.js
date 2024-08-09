@@ -10,4 +10,4 @@ function sumUpToN(n) {
 
 let limit = 5;
 let resultSum = sumUpToN(limit);
-console.log('The sum of numbers from 1 to', limit, 'is:', resultSum);
+console.log("The sum of numbers from 1 to", limit, "is:", resultSum);

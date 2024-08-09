@@ -6,4 +6,4 @@ Repository with examples of VSCode Debugging. This repository is part of a self-
 
 Developed by Diego Cortés
 
-- dcortes.net@gmail.com
+- <dcortes.net@gmail.com>
